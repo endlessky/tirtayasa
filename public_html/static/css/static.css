@@ -1,0 +1,29 @@
+.top-bar, .top-bar-section ul, .top-bar-section li a:not(.button) {
+    background-color: #009ED6;
+    color: #fff;
+}
+.top-bar-section li:not(.has-form) a:not(.button) {
+    padding: 0 15px;
+    line-height: 45px;
+    background: #009ED6;
+}
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+    background: #422874;
+    color: #fff; 
+}  
+ol {
+	padding-left:50px;
+}
+.socialmedia img {
+	vertical-align: top;
+} 
+#footerAwards p
+{	
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+}
+.textsize {
+	width: 1em;
+	height: 1em;
+}

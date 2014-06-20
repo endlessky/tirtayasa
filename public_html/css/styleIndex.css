@@ -18,7 +18,7 @@ body > .row {
 	width: 100%;
 }
 .center {
-	text-align: center;
+	text-align: left;
 }
 img {
 	max-width: none;
